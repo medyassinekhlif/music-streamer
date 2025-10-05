@@ -1,2 +1,2 @@
-Extending Plugalyzer from an offline VST3 host into a real-time audio streamer. It processes MIDI data on the fly, feeds it to VST3 plugins, and streams the generated audio buffers instantly to the client. This lets users hear the song as it’s being created, with event-driven handling of MIDI input and low-latency playback for live-generated music.
+Extending Plugalyzer from an offline VST3 host into a real-time audio streamer. It processes MIDI data (on the fly), feeds it to VST3 plugins, and streams the generated audio buffers instantly to the client. This lets users hear the song as it’s being created, with event-driven handling of MIDI input and low-latency playback for live-generated music.
 
