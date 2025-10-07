@@ -157,7 +157,6 @@ private:
     juce::AudioFormatManager audioFormatManager;
     juce::AudioPluginFormatManager audioPluginFormatManager;
 
-    // ✅ Updated JUCE 7+ compliant version
     std::unique_ptr<juce::AudioPluginInstance> createPluginInstance()
     {
         juce::PluginDescription desc;
