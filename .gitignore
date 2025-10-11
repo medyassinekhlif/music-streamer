@@ -1,1 +1,18 @@
+# Build folders
 build/
+output/
+
+# Vcpkg installed dependencies
+vcpkg_installed/
+
+# JUCE build intermediates (if any)
+JUCE/Builds/
+JUCE/modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
